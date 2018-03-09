@@ -5,3 +5,11 @@ https://gitweb.torproject.org/tor.git
 https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29
 https://www.hackthis.co.uk/articles/how-to-create-your-own-tor-url
 https://tor.stackexchange.com/
+http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf
+
+https://github.com/netzob/netzob/tree/master/netzob
+http://www.netzob.org
+
+https://www.wireshark.org/
+
+www.tcpdump.org/
