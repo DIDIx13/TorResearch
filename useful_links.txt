@@ -1,5 +1,7 @@
 https://www.torproject.org/
 https://www.torproject.org/docs/documentation.html.en
+https://research.torproject.org/
+
 https://gitweb.torproject.org/tor.git
 
 https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29
